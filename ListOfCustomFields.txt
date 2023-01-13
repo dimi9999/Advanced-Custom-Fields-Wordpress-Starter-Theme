@@ -1,0 +1,89 @@
+FIELD GROUP: Homepage Carousel
+------------------------------
+(Homepage_Slider) (REPEATER)
+--------------------
+Homepage + Video
+--------------------
+Sub fields:
+----------
+Homepage_Hero. 
+Homepage_Video.
+Homepage_bgImage
+Homepage_smallTitle
+Homepage_mainTitle
+Homepage_link
+Homepage_linkText
+---------
+COMPLETED 
+---------
+FIELD GROUP: Homepage Latest Work
+
+Homepage_work (REPEATER)
+------------------------
+Sub fields:
+-----------
+homepage_workimage (image)
+homepage_workimage_description (description)
+homepage_workcaption (text)
+---------
+COMPLETED
+---------
+
+------------------------------------------------
+GLOBAL REPEATER OPTIONS PAGE FOOTER OWL CAROUSEL
+------------------------------------------------
+FIELD GROUP: Footer (OPTIONS TO BE APPLIED GLOBALLY)
+----------------------------------------------------
+Footer_Socials
+Footer_Email
+Footer_Phone
+Footer_Address
+OwlCarousel_InstagramTitle
+OwlCarousel_Instagram (REPEATER) ALL PAGES
+------------------------------------------
+OwlCarousel_InstagramImage 
+OwlCarousel_InstagramLink
+-------------------------
+COMPLETED + TO BE APPLIED WITH CODE
+---------
+
+
+
+
+
+FIELD GROUP: Homepage Latest Clients
+HomeClients (REPEATER)
+---------------------------------
+
+FIELD GROUP: Homepage Services
+Services (REPEATER)
+---------------------------------
+
+
+FIELD GROUP: Clients
+Portfolio (REPEATER)
+--------------------
+
+FIELD GROUP: SERVICES
+Services (REPEATER)
+---------------------
+
+
+
+FIELD GROUP: 
+FIELD GROUP: Services Details
+---------------------
+
+
+Client Details
+--------------
+
+---------------------
+Field GROUP: ABOUT US
+---------------------
+TeamMembers (REPEATER):
+TeamImage
+TeamName
+TeamInfo
+
+CONTACT US - CONTACT FORM TO BE COMPLETED AND TESTED
